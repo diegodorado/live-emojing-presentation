@@ -1,0 +1,10 @@
+// Global Reveal js style
+@import "../../node_modules/reveal.js/css/reveal.css";
+@import "../../node_modules/reveal.js/css/theme/black.css";
+@import "./solarized-dark.css";
+
+.reveal section pre code {
+    white-space: pre-wrap;
+    overflow: hidden;
+    padding: 20px;
+}
